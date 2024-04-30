@@ -1,0 +1,3 @@
+sec-downloader==0.11.1
+sec-edgar-downloader==5.0.2
+pdfkit
